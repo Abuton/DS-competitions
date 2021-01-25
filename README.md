@@ -1,2 +1,2 @@
 # DS-competitions
-A house for my DS competition codes
+House for my DS competition codes Starting from January
