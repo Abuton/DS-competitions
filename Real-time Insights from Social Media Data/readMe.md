@@ -6,3 +6,5 @@ And Twitter is a master at this game. Elon Musk's tweets keep Wall Street on its
 
 In this Project, I used pre-downloaded datasets to understand the nuts and bolts of Twitter Data. In particular, I did a thorough analysis of a hot-trend.
 
+## Skills: Data Collection, Data Wrangling, Data Analysis & Visualization, Insights Generations and Communication, 
+
